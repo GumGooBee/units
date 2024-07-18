@@ -430,7 +430,7 @@
             },
             {
                 "Price": 30000,
-                "Range": 20,
+                "Range": 22,
                 "Damage": 250,
                 "Cooldown": 0.75
             }
@@ -1280,27 +1280,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 150,
-                "Cooldown": 1.5
+                "Range": 14,
+                "Damage": 225,
+                "Cooldown": 2
             },
             {
                 "Price": 20000,
-                "Range": 17,
-                "Damage": 300,
-                "Cooldown": 1.25
+                "Range": 16,
+                "Damage": 350,
+                "Cooldown": 1.5
             },
             {
                 "Price": 25000,
-                "Range": 20,
+                "Range": 18,
                 "Damage": 400,
                 "Cooldown": 1
             },
             {
                 "Price": 30000,
                 "Range": 20,
-                "Damage": 500,
-                "Cooldown": 0.75
+                "Damage": 625,
+                "Cooldown": 1
             }
         ]
     },
@@ -1478,7 +1478,7 @@
         "Type": "Single",
         "Image": "rbxassetid://18363537562",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 800,
         "Max": 4,
         "Upgrades": [
             {
@@ -1500,7 +1500,7 @@
                 "Cooldown": 1
             },
             {
-                "Price": 2500,
+                "Price": 2400,
                 "Range": 25,
                 "Damage": 250,
                 "Cooldown": 1
@@ -1619,32 +1619,32 @@
         "Type": "Pierce",
         "Image": "rbxassetid://18363555442",
         "Rarity": "Nightmare",
-        "PlacePrice": 12000,
+        "PlacePrice": 12500,
         "Max": 2,
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 500,
+                "Range": 16,
+                "Damage": 550,
                 "Cooldown": 2
             },
             {
                 "Price": 15000,
-                "Range": 17,
-                "Damage": 800,
-                "Cooldown": 2
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 1.5
             },
             {
                 "Price": 17000,
-                "Range": 19,
-                "Damage": 1200,
-                "Cooldown": 2
+                "Range": 20,
+                "Damage": 1100,
+                "Cooldown": 1.5
             },
             {
                 "Price": 22000,
-                "Range": 21,
-                "Damage": 1400,
-                "Cooldown": 1.5
+                "Range": 22,
+                "Damage": 1250,
+                "Cooldown": 1
             }
         ]
     },
