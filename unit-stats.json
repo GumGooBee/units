@@ -1791,5 +1791,20 @@
                 "PoisonLength": 3
             }
         ]
+    },
+    "Abyssal Foxy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1
+            },
+        ]
     }
 }
