@@ -1796,7 +1796,7 @@
         "Type": "Burst Slow",
         "Image": "rbxassetid://18571872309",
         "Rarity": "Secret",
-        "PlacePrice": 1,
+        "PlacePrice": 15000,
         "Max": 3,
         "Offset": 0.1,
         "Upgrades": [
