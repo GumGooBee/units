@@ -1796,7 +1796,7 @@
         "Type": "Burst",
         "Image": "rbxassetid://18571834679",
         "Rarity": "Secret",
-        "PlacePrice": 5000,
+        "PlacePrice": 1,
         "Max": 4,
         "Upgrades": [
             {
