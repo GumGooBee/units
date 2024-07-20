@@ -1805,7 +1805,7 @@
                 "Range": 16,
                 "Damage": 30,
                 "Cooldown": 0.12,
-                "ChargeLength": 1,
+                "ChargeLength": 1.25,
                 "RechargeLength": 3,
                 "Slow": 0.9,
                 "SlowTime": 1
@@ -1815,7 +1815,7 @@
                 "Range": 20,
                 "Damage": 40,
                 "Cooldown": 0.1,
-                "ChargeLength": 1,
+                "ChargeLength": 1.25,
                 "RechargeLength": 4,
                 "Slow": 0.9,
                 "SlowTime": 1
@@ -1825,7 +1825,7 @@
                 "Range": 25,
                 "Damage": 50,
                 "Cooldown": 0.07,
-                "ChargeLength": 1,
+                "ChargeLength": 1.25,
                 "RechargeLength": 4,
                 "Slow": 0.9,
                 "SlowTime": 1
@@ -1845,7 +1845,7 @@
                 "Range": 35,
                 "Damage": 60,
                 "Cooldown": 0.05,
-                "ChargeLength": 0.5,
+                "ChargeLength": 1,
                 "RechargeLength": 5,
                 "Slow": 0.9,
                 "SlowTime": 1
