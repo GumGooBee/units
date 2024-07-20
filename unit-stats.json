@@ -1794,7 +1794,7 @@
     },
     "Abyssal Foxy": {
         "Type": "Burst",
-        "Image": "",
+        "Image": "rbxassetid://18571834679",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Max": 4,
@@ -1802,7 +1802,7 @@
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 10,
+                "Damage": 12.5,
                 "Cooldown": 0.05,
                 "ChargeLength": 4,
                 "RechargeLength": 8
@@ -1810,7 +1810,7 @@
             {
                 "Price": 7500,
                 "Range": 20,
-                "Damage": 15,
+                "Damage": 16,
                 "Cooldown": 0.05,
                 "ChargeLength": 3.5,
                 "RechargeLength": 10
@@ -1818,7 +1818,7 @@
             {
                 "Price": 12500,
                 "Range": 25,
-                "Damage": 18,
+                "Damage": 20,
                 "Cooldown": 0.05,
                 "ChargeLength": 3,
                 "RechargeLength": 12
@@ -1826,7 +1826,7 @@
             {
                 "Price": 25000,
                 "Range": 30,
-                "Damage": 22,
+                "Damage": 25,
                 "Cooldown": 0.05,
                 "ChargeLength": 2.5,
                 "RechargeLength": 14
