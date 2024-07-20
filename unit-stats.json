@@ -1793,7 +1793,7 @@
         ]
     },
     "Abyssal Foxy": {
-        "Type": "Burst",
+        "Type": "Burst Slow",
         "Image": "rbxassetid://18571834679",
         "Rarity": "Secret",
         "PlacePrice": 1,
@@ -1802,8 +1802,8 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 17,
-                "Damage": 22,
+                "Range": 16,
+                "Damage": 30,
                 "Cooldown": 0.12,
                 "ChargeLength": 1,
                 "RechargeLength": 3,
@@ -1811,19 +1811,19 @@
                 "SlowTime": 1
             },
             {
-                "Price": 7500,
+                "Price": 30000,
                 "Range": 20,
-                "Damage": 27,
+                "Damage": 40,
                 "Cooldown": 0.1,
                 "ChargeLength": 1,
-                "RechargeLength": 3,
+                "RechargeLength": 4,
                 "Slow": 0.9,
                 "SlowTime": 1
             },
             {
-                "Price": 12500,
+                "Price": 50000,
                 "Range": 25,
-                "Damage": 31,
+                "Damage": 50,
                 "Cooldown": 0.07,
                 "ChargeLength": 1,
                 "RechargeLength": 4,
@@ -1831,12 +1831,22 @@
                 "SlowTime": 1
             },
             {
-                "Price": 25000,
+                "Price": 70000,
                 "Range": 30,
-                "Damage": 35,
+                "Damage": 60,
                 "Cooldown": 0.05,
                 "ChargeLength": 1,
-                "RechargeLength": 4,
+                "RechargeLength": 5,
+                "Slow": 0.9,
+                "SlowTime": 1
+            },
+            {
+                "Price": 100000,
+                "Range": 35,
+                "Damage": 60,
+                "Cooldown": 0.05,
+                "ChargeLength": 0.5,
+                "RechargeLength": 5,
                 "Slow": 0.9,
                 "SlowTime": 1
             }
