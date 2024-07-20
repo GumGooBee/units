@@ -1793,7 +1793,7 @@
         ]
     },
     "Abyssal Foxy": {
-        "Type": "Single",
+        "Type": "Burst",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 500,
@@ -1802,8 +1802,18 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1
+                "Damage": 100,
+                "Cooldown": 0.05,
+                "ChargeLength": 3,
+                "RechargeLength": 5,
+            },
+            {
+                "Price": 200,
+                "Range": 18,
+                "Damage": 200,
+                "Cooldown": 0.05,
+                "ChargeLength": 3,
+                "RechargeLength": 8,
             }
         ]
     }
