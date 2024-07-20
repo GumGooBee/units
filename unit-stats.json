@@ -1806,7 +1806,9 @@
                 "Damage": 22,
                 "Cooldown": 0.12,
                 "ChargeLength": 4,
-                "RechargeLength": 5
+                "RechargeLength": 5,
+                "Slow": 0.9,
+                "SlowTime": 1
             },
             {
                 "Price": 7500,
@@ -1814,7 +1816,9 @@
                 "Damage": 27,
                 "Cooldown": 0.1,
                 "ChargeLength": 3.5,
-                "RechargeLength": 8
+                "RechargeLength": 8,
+                "Slow": 0.9,
+                "SlowTime": 1
             },
             {
                 "Price": 12500,
@@ -1822,7 +1826,9 @@
                 "Damage": 31,
                 "Cooldown": 0.07,
                 "ChargeLength": 3,
-                "RechargeLength": 10
+                "RechargeLength": 10,
+                "Slow": 0.9,
+                "SlowTime": 1
             },
             {
                 "Price": 25000,
@@ -1830,7 +1836,9 @@
                 "Damage": 35,
                 "Cooldown": 0.05,
                 "ChargeLength": 2.5,
-                "RechargeLength": 12
+                "RechargeLength": 12,
+                "Slow": 0.9,
+                "SlowTime": 1
             }
         ]
     }
