@@ -1797,23 +1797,39 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 500,
-        "Max": 4,
+        "Max": 3,
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 4,
+                "Range": 17,
+                "Damage": 5,
                 "Cooldown": 0.05,
-                "ChargeLength": 3,
-                "RechargeLength": 5
+                "ChargeLength": 3.5,
+                "RechargeLength": 6
             },
             {
                 "Price": 200,
-                "Range": 18,
-                "Damage": 8,
+                "Range": 20,
+                "Damage": 7,
                 "Cooldown": 0.05,
                 "ChargeLength": 3,
                 "RechargeLength": 8
+            },
+            {
+                "Price": 300,
+                "Range": 25,
+                "Damage": 12,
+                "Cooldown": 0.05,
+                "ChargeLength": 2.5,
+                "RechargeLength": 10
+            },
+            {
+                "Price": 400,
+                "Range": 30,
+                "Damage": 15,
+                "Cooldown": 0.05,
+                "ChargeLength": 2,
+                "RechargeLength": 12
             }
         ]
     }
