@@ -1843,7 +1843,7 @@
             {
                 "Price": 100000,
                 "Range": 35,
-                "Damage": 45,
+                "Damage": 50,
                 "Cooldown": 0.05,
                 "ChargeLength": 1,
                 "RechargeLength": 5,
