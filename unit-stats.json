@@ -1805,7 +1805,7 @@
                 "Damage": 100,
                 "Cooldown": 0.05,
                 "ChargeLength": 3,
-                "RechargeLength": 5,
+                "RechargeLength": 5
             },
             {
                 "Price": 200,
@@ -1813,7 +1813,7 @@
                 "Damage": 200,
                 "Cooldown": 0.05,
                 "ChargeLength": 3,
-                "RechargeLength": 8,
+                "RechargeLength": 8
             }
         ]
     }
