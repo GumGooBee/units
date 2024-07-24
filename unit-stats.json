@@ -1988,7 +1988,8 @@
                 "Damage": 75,
                 "Cooldown": 2,
                 "SummonTime": 30,
-                "Health": 30
+                "Health": 30,
+                "Unit": "TankCake"
             },
             {
                 "Price": 5,
@@ -1996,7 +1997,8 @@
                 "Damage": 100,
                 "Cooldown": 2,
                 "SummonTime": 25,
-                "Health": 50
+                "Health": 50,
+                "Unit": "TankCake"
             },
             {
                 "Price": 6,
@@ -2004,7 +2006,8 @@
                 "Damage": 125,
                 "Cooldown": 1.5,
                 "SummonTime": 20,
-                "Health": 75
+                "Health": 75,
+                "Unit": "TankCake"
             },
             {
                 "Price": 7,
@@ -2012,7 +2015,8 @@
                 "Damage": 150,
                 "Cooldown": 1.5,
                 "SummonTime": 15,
-                "Health": 125
+                "Health": 125,
+                "Unit": "TankCake"
             }
         ]
     }
