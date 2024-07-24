@@ -1986,25 +1986,33 @@
                 "Price": 0,
                 "Range": 8,
                 "Damage": 75,
-                "Cooldown": 2
+                "Cooldown": 2,
+                "SummonTime": 30,
+                "Health": 30
             },
             {
                 "Price": 5,
                 "Range": 10,
                 "Damage": 100,
-                "Cooldown": 2
+                "Cooldown": 2,
+                "SummonTime": 25,
+                "Health": 50
             },
             {
                 "Price": 6,
                 "Range": 12,
                 "Damage": 125,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
+                "SummonTime": 20,
+                "Health": 75
             },
             {
                 "Price": 7,
                 "Range": 14,
                 "Damage": 150,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
+                "SummonTime": 15,
+                "Health": 125
             }
         ]
     }
