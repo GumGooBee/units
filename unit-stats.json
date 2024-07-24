@@ -1988,7 +1988,7 @@
                 "Range": 8,
                 "Damage": 75,
                 "Cooldown": 2,
-                "SummonTime": 30,
+                "SummonTime": 6,
                 "Health": 30,
                 "WalkSpeed": 12,
                 "Unit": "TankCake"
@@ -1998,7 +1998,7 @@
                 "Range": 10,
                 "Damage": 100,
                 "Cooldown": 2,
-                "SummonTime": 25,
+                "SummonTime": 5,
                 "Health": 50,
                 "WalkSpeed": 12,
                 "Unit": "TankCake"
@@ -2008,7 +2008,7 @@
                 "Range": 12,
                 "Damage": 125,
                 "Cooldown": 1.5,
-                "SummonTime": 20,
+                "SummonTime": 4,
                 "Health": 75,
                 "WalkSpeed": 12,
                 "Unit": "TankCake"
@@ -2018,7 +2018,7 @@
                 "Range": 14,
                 "Damage": 150,
                 "Cooldown": 1.5,
-                "SummonTime": 15,
+                "SummonTime": 3,
                 "Health": 125,
                 "WalkSpeed": 12,
                 "Unit": "TankCake"
