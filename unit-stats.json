@@ -2086,5 +2086,20 @@
                 "Offset": -0.5
             }
         ]
+    },
+    "Sergeant Mangle": {
+        "Type": "Explosion",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1,
+        "Max": 3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 25,
+                "Cooldown": 2
+            }
+        ]
     }
 }
