@@ -1981,7 +1981,7 @@
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 4,
-        "Offset": -2,
+        "Offset": -1.5,
         "Upgrades": [
             {
                 "Price": 0,
@@ -1991,7 +1991,8 @@
                 "SummonTime": 6,
                 "Health": 30,
                 "WalkSpeed": 12,
-                "Unit": "TankCake"
+                "Unit": "TankCake",
+                "Offset": -1.5
             },
             {
                 "Price": 5,
@@ -2001,7 +2002,8 @@
                 "SummonTime": 5,
                 "Health": 50,
                 "WalkSpeed": 12,
-                "Unit": "TankCake"
+                "Unit": "TankCake",
+                "Offset": -1.5
             },
             {
                 "Price": 6,
@@ -2011,7 +2013,8 @@
                 "SummonTime": 4,
                 "Health": 75,
                 "WalkSpeed": 12,
-                "Unit": "TankCake"
+                "Unit": "TankCake",
+                "Offset": -1.5
             },
             {
                 "Price": 7,
@@ -2021,7 +2024,8 @@
                 "SummonTime": 3,
                 "Health": 125,
                 "WalkSpeed": 12,
-                "Unit": "TankCake"
+                "Unit": "TankCake",
+                "Offset": -1.5
             }
         ]
     }
