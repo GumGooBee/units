@@ -1851,5 +1851,92 @@
                 "SlowTime": 1
             }
         ]
+    },
+    "Major Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1,
+        "Max": 4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 35,
+                "Cooldown": 0.5,
+            },
+            {
+                "Price": 5,
+                "Range": 20,
+                "Damage": 40,
+                "Cooldown": 0.4,
+            }
+        ]
+    },
+    "Lieutenant Bonnie": {
+        "Type": "Continuous",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 1,
+        "Max": 3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 20,
+                "Cooldown": 0.25,
+            },
+            {
+                "Price": 5,
+                "Range": 20,
+                "Damage": 20,
+                "Cooldown": 0.125,
+            },
+            {
+                "Price": 6,
+                "Range": 22.5,
+                "Damage": 25,
+                "Cooldown": 0.1,
+            },
+            {
+                "Price": 7,
+                "Range": 25,
+                "Damage": 30,
+                "Cooldown": 0.05,
+            }
+        ]
+    },
+    "Mercenary Foxy": {
+        "Type": "Continuous",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1,
+        "Max": 4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 15,
+                "Cooldown": 0.25,
+            },
+            {
+                "Price": 5,
+                "Range": 18,
+                "Damage": 15,
+                "Cooldown": 0.125,
+            },
+            {
+                "Price": 6,
+                "Range": 20,
+                "Damage": 18,
+                "Cooldown": 0.1,
+            },
+            {
+                "Price": 7,
+                "Range": 23,
+                "Damage": 24,
+                "Cooldown": 0.05,
+            }
+        ]
     }
 }
