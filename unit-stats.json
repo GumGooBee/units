@@ -1863,13 +1863,15 @@
                 "Price": 0,
                 "Range": 18,
                 "Damage": 35,
-                "Cooldown": 0.5
+                "Cooldown": 0.4,
+                "Ammo": 50
             },
             {
                 "Price": 5,
                 "Range": 20,
                 "Damage": 40,
-                "Cooldown": 0.4
+                "Cooldown": 0.3,
+                "Ammo": 50
             }
         ]
     },
@@ -1884,25 +1886,29 @@
                 "Price": 0,
                 "Range": 18,
                 "Damage": 20,
-                "Cooldown": 0.25
+                "Cooldown": 0.25,
+                "Ammo": 50
             },
             {
                 "Price": 5,
                 "Range": 20,
                 "Damage": 20,
-                "Cooldown": 0.125
+                "Cooldown": 0.125,
+                "Ammo": 50
             },
             {
                 "Price": 6,
                 "Range": 22.5,
                 "Damage": 25,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Ammo": 60
             },
             {
                 "Price": 7,
                 "Range": 25,
                 "Damage": 30,
-                "Cooldown": 0.05
+                "Cooldown": 0.05,
+                "Ammo": 60
             }
         ]
     },
@@ -1917,25 +1923,29 @@
                 "Price": 0,
                 "Range": 16,
                 "Damage": 15,
-                "Cooldown": 0.25
+                "Cooldown": 0.25,
+                "Ammo": 50
             },
             {
                 "Price": 5,
                 "Range": 18,
                 "Damage": 15,
-                "Cooldown": 0.125
+                "Cooldown": 0.125,
+                "Ammo": 50
             },
             {
                 "Price": 6,
                 "Range": 20,
                 "Damage": 18,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Ammo": 60
             },
             {
                 "Price": 7,
                 "Range": 23,
                 "Damage": 24,
-                "Cooldown": 0.05
+                "Cooldown": 0.05,
+                "Ammo": 60
             }
         ]
     }
