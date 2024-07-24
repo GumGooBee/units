@@ -1864,14 +1864,28 @@
                 "Range": 18,
                 "Damage": 35,
                 "Cooldown": 0.4,
-                "Ammo": 50
+                "Ammo": 25
             },
             {
                 "Price": 5,
                 "Range": 20,
                 "Damage": 40,
                 "Cooldown": 0.3,
-                "Ammo": 50
+                "Ammo": 25
+            },
+            {
+                "Price": 6,
+                "Range": 22,
+                "Damage": 40,
+                "Cooldown": 0.25,
+                "Ammo": 30
+            },
+            {
+                "Price": 7,
+                "Range": 25,
+                "Damage": 44,
+                "Cooldown": 0.25,
+                "Ammo": 30
             }
         ]
     },
