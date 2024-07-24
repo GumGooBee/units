@@ -1989,6 +1989,7 @@
                 "Cooldown": 2,
                 "SummonTime": 30,
                 "Health": 30,
+                "WalkSpeed": 12,
                 "Unit": "TankCake"
             },
             {
@@ -1998,6 +1999,7 @@
                 "Cooldown": 2,
                 "SummonTime": 25,
                 "Health": 50,
+                "WalkSpeed": 12,
                 "Unit": "TankCake"
             },
             {
@@ -2007,6 +2009,7 @@
                 "Cooldown": 1.5,
                 "SummonTime": 20,
                 "Health": 75,
+                "WalkSpeed": 12,
                 "Unit": "TankCake"
             },
             {
@@ -2016,6 +2019,7 @@
                 "Cooldown": 1.5,
                 "SummonTime": 15,
                 "Health": 125,
+                "WalkSpeed": 12,
                 "Unit": "TankCake"
             }
         ]
