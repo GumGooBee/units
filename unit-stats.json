@@ -1863,7 +1863,7 @@
                 "Price": 0,
                 "Range": 18,
                 "Damage": 35,
-                "Cooldown": 0.4,
+                "Cooldown": 0.3,
                 "Ammo": 25,
                 "ReloadTime": 1.5
             },
@@ -1879,7 +1879,7 @@
                 "Price": 6,
                 "Range": 22,
                 "Damage": 40,
-                "Cooldown": 0.25,
+                "Cooldown": 0.2,
                 "Ammo": 30,
                 "ReloadTime": 1.5
             },
@@ -1887,7 +1887,7 @@
                 "Price": 7,
                 "Range": 25,
                 "Damage": 44,
-                "Cooldown": 0.25,
+                "Cooldown": 0.2,
                 "Ammo": 30,
                 "ReloadTime": 1.5
             }
