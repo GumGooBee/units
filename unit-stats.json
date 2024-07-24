@@ -1981,6 +1981,7 @@
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 4,
+        "Offset": -2,
         "Upgrades": [
             {
                 "Price": 0,
