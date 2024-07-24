@@ -1864,28 +1864,32 @@
                 "Range": 18,
                 "Damage": 35,
                 "Cooldown": 0.4,
-                "Ammo": 25
+                "Ammo": 25,
+                "ReloadTime": 1.5
             },
             {
                 "Price": 5,
                 "Range": 20,
                 "Damage": 40,
                 "Cooldown": 0.3,
-                "Ammo": 25
+                "Ammo": 25,
+                "ReloadTime": 1.5
             },
             {
                 "Price": 6,
                 "Range": 22,
                 "Damage": 40,
                 "Cooldown": 0.25,
-                "Ammo": 30
+                "Ammo": 30,
+                "ReloadTime": 1.5
             },
             {
                 "Price": 7,
                 "Range": 25,
                 "Damage": 44,
                 "Cooldown": 0.25,
-                "Ammo": 30
+                "Ammo": 30,
+                "ReloadTime": 1.5
             }
         ]
     },
@@ -1901,28 +1905,32 @@
                 "Range": 18,
                 "Damage": 20,
                 "Cooldown": 0.25,
-                "Ammo": 50
+                "Ammo": 50,
+                "ReloadTime": 1.5
             },
             {
                 "Price": 5,
                 "Range": 20,
                 "Damage": 20,
                 "Cooldown": 0.125,
-                "Ammo": 50
+                "Ammo": 50,
+                "ReloadTime": 1.5
             },
             {
                 "Price": 6,
                 "Range": 22.5,
                 "Damage": 25,
                 "Cooldown": 0.1,
-                "Ammo": 60
+                "Ammo": 60,
+                "ReloadTime": 1.5
             },
             {
                 "Price": 7,
                 "Range": 25,
                 "Damage": 30,
                 "Cooldown": 0.05,
-                "Ammo": 60
+                "Ammo": 60,
+                "ReloadTime": 1.5
             }
         ]
     },
@@ -1938,28 +1946,32 @@
                 "Range": 16,
                 "Damage": 15,
                 "Cooldown": 0.25,
-                "Ammo": 50
+                "Ammo": 50,
+                "ReloadTime": 1.5
             },
             {
                 "Price": 5,
                 "Range": 18,
                 "Damage": 15,
                 "Cooldown": 0.125,
-                "Ammo": 50
+                "Ammo": 50,
+                "ReloadTime": 1.5
             },
             {
                 "Price": 6,
                 "Range": 20,
                 "Damage": 18,
                 "Cooldown": 0.1,
-                "Ammo": 60
+                "Ammo": 60,
+                "ReloadTime": 1.5
             },
             {
                 "Price": 7,
                 "Range": 23,
                 "Damage": 24,
                 "Cooldown": 0.05,
-                "Ammo": 60
+                "Ammo": 60,
+                "ReloadTime": 1.5
             }
         ]
     }
