@@ -1980,7 +1980,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 1,
-        "Max": 4,
+        "Max": 3,
         "Offset": -1.5,
         "Upgrades": [
             {
@@ -2026,6 +2026,64 @@
                 "WalkSpeed": 12,
                 "Unit": "TankCake",
                 "Offset": -1.5
+            }
+        ]
+    },
+    "Commando Endo": {
+        "Type": "Continuous",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1,
+        "Max": 3,
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 8,
+                "Damage": 10,
+                "Cooldown": 0.25,
+                "SummonTime": 6,
+                "Health": 15,
+                "WalkSpeed": 12,
+                "Amount": 1,
+                "Unit": "Infantry Endo",
+                "Offset": -0.5
+            },
+            {
+                "Price": 5,
+                "Range": 10,
+                "Damage": 15,
+                "Cooldown": 0.25,
+                "SummonTime": 5,
+                "Health": 20,
+                "WalkSpeed": 12,
+                "Amount": 1,
+                "Unit": "Infantry Endo",
+                "Offset": -0.5
+            },
+            {
+                "Price": 6,
+                "Range": 12,
+                "Damage": 20,
+                "Cooldown": 0.125,
+                "SummonTime": 4,
+                "Health": 20,
+                "WalkSpeed": 12,
+                "Amount": 2,
+                "Unit": "TankCake",
+                "Offset": -0.5
+            },
+            {
+                "Price": 7,
+                "Range": 14,
+                "Damage": 25,
+                "Cooldown": 0.075,
+                "SummonTime": 3,
+                "Health": 25,
+                "WalkSpeed": 12,
+                "Amount": 2,
+                "Unit": "Infantry Endo",
+                "Offset": -0.5
             }
         ]
     }
