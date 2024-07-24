@@ -1974,5 +1974,38 @@
                 "ReloadTime": 1.5
             }
         ]
+    },
+    "CupTank": {
+        "Type": "Summoner",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1,
+        "Max": 4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 8,
+                "Damage": 75,
+                "Cooldown": 2
+            },
+            {
+                "Price": 5,
+                "Range": 10,
+                "Damage": 100,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6,
+                "Range": 12,
+                "Damage": 125,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7,
+                "Range": 14,
+                "Damage": 150,
+                "Cooldown": 1.5
+            }
+        ]
     }
 }
