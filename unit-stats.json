@@ -2039,7 +2039,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 8,
+                "Range": 10,
                 "Damage": 10,
                 "Cooldown": 0.25,
                 "SummonTime": 6,
@@ -2051,7 +2051,7 @@
             },
             {
                 "Price": 5,
-                "Range": 10,
+                "Range": 14,
                 "Damage": 15,
                 "Cooldown": 0.25,
                 "SummonTime": 5,
@@ -2063,7 +2063,7 @@
             },
             {
                 "Price": 6,
-                "Range": 12,
+                "Range": 16,
                 "Damage": 20,
                 "Cooldown": 0.125,
                 "SummonTime": 4,
@@ -2075,7 +2075,7 @@
             },
             {
                 "Price": 7,
-                "Range": 14,
+                "Range": 18,
                 "Damage": 25,
                 "Cooldown": 0.075,
                 "SummonTime": 3,
@@ -2097,9 +2097,24 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
+                "Range": 12,
                 "Damage": 25,
                 "Cooldown": 2
+            }
+        ]
+    },
+    "Valkyrie Chica": {
+        "Type": "Continuous",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1,
+        "Max": 3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 20,
+                "Cooldown": 0.1
             }
         ]
     }
