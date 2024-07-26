@@ -2048,7 +2048,7 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 12,
+                "SummonRange": 14,
                 "SummonDamage": 10,
                 "SummonCooldown": 0.5
             },
@@ -2063,7 +2063,7 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 14,
+                "SummonRange": 16,
                 "SummonDamage": 15,
                 "SummonCooldown": 0.4
             },
@@ -2078,7 +2078,7 @@
                 "Amount": 2,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 16,
+                "SummonRange": 18,
                 "SummonDamage": 20,
                 "SummonCooldown": 0.3
             },
@@ -2093,7 +2093,7 @@
                 "Amount": 2,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 18,
+                "SummonRange": 20,
                 "SummonDamage": 30,
                 "SummonCooldown": 0.2
             }
@@ -2121,7 +2121,7 @@
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 3,
-        "Offset": -0.9,
+        "Offset": -0.8,
         "Upgrades": [
             {
                 "Price": 0,
