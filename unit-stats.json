@@ -2047,7 +2047,7 @@
                 "WalkSpeed": 12,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
-                "Offset": -1
+                "Offset": -2
             },
             {
                 "Price": 5,
@@ -2059,7 +2059,7 @@
                 "WalkSpeed": 12,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
-                "Offset": -1
+                "Offset": -2
             },
             {
                 "Price": 6,
@@ -2071,7 +2071,7 @@
                 "WalkSpeed": 12,
                 "Amount": 2,
                 "Unit": "TankCake",
-                "Offset": -1
+                "Offset": -2
             },
             {
                 "Price": 7,
@@ -2083,7 +2083,7 @@
                 "WalkSpeed": 12,
                 "Amount": 2,
                 "Unit": "Infantry Endo",
-                "Offset": -1
+                "Offset": -2
             }
         ]
     },
