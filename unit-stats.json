@@ -2137,7 +2137,7 @@
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 3,
-        "Offset": -1.2,
+        "Offset": -1.4,
         "Upgrades": [
             {
                 "Price": 0,
