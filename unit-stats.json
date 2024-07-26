@@ -2047,7 +2047,10 @@
                 "WalkSpeed": 12,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
-                "Offset": -2
+                "Offset": -2,
+                "SummonRange": 12,
+                "SummonDamage": 10,
+                "SummonCooldown": 0.5
             },
             {
                 "Price": 5,
@@ -2059,7 +2062,10 @@
                 "WalkSpeed": 12,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
-                "Offset": -2
+                "Offset": -2,
+                "SummonRange": 14,
+                "SummonDamage": 15,
+                "SummonCooldown": 0.4
             },
             {
                 "Price": 6,
@@ -2070,8 +2076,11 @@
                 "Health": 20,
                 "WalkSpeed": 12,
                 "Amount": 2,
-                "Unit": "TankCake",
-                "Offset": -2
+                "Unit": "Infantry Endo",
+                "Offset": -2,
+                "SummonRange": 16,
+                "SummonDamage": 20,
+                "SummonCooldown": 0.3
             },
             {
                 "Price": 7,
@@ -2083,7 +2092,10 @@
                 "WalkSpeed": 12,
                 "Amount": 2,
                 "Unit": "Infantry Endo",
-                "Offset": -2
+                "Offset": -2,
+                "SummonRange": 18,
+                "SummonDamage": 30,
+                "SummonCooldown": 0.2
             }
         ]
     },
