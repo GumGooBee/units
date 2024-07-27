@@ -1793,7 +1793,7 @@
         ]
     },
     "Abyssal Foxy": {
-        "Type": "Burst Slow",
+        "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
         "Rarity": "Secret",
         "PlacePrice": 15000,
