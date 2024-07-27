@@ -1934,7 +1934,7 @@
             }
         ]
     },
-    "Mercenary Foxy": {
+    "Commando Foxy": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673129884",
         "Rarity": "Mythic",
@@ -2029,7 +2029,7 @@
             }
         ]
     },
-    "Commando Endo": {
+    "Endo Army": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673468864",
         "Rarity": "Secret",
