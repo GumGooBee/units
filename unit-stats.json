@@ -2039,7 +2039,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
+                "Range": 15,
                 "Damage": 10,
                 "Cooldown": 0.25,
                 "SummonTime": 20,
@@ -2055,7 +2055,7 @@
             {
                 "Price": 1200,
                 "Range": 14,
-                "Damage": 15,
+                "Damage": 16,
                 "Cooldown": 0.25,
                 "SummonTime": 18,
                 "Health": 20,
@@ -2069,7 +2069,7 @@
             },
             {
                 "Price": 1500,
-                "Range": 16,
+                "Range": 18,
                 "Damage": 20,
                 "Cooldown": 0.25,
                 "SummonTime": 17,
@@ -2084,7 +2084,7 @@
             },
             {
                 "Price": 2000,
-                "Range": 18,
+                "Range": 20,
                 "Damage": 25,
                 "Cooldown": 0.25,
                 "SummonTime": 16,
