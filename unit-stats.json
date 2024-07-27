@@ -1852,9 +1852,9 @@
             }
         ]
     },
-    "Major Freddy": {
+    "Scout Freddy": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://18665224476",
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 4,
@@ -1893,9 +1893,9 @@
             }
         ]
     },
-    "Lieutenant Bonnie": {
+    "Enforcer Bonnie": {
         "Type": "Continuous",
-        "Image": "",
+        "Image": "rbxassetid://18673234413",
         "Rarity": "Nightmare",
         "PlacePrice": 1,
         "Max": 3,
@@ -1936,7 +1936,7 @@
     },
     "Mercenary Foxy": {
         "Type": "Continuous",
-        "Image": "",
+        "Image": "rbxassetid://18673129884",
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 4,
@@ -1975,9 +1975,9 @@
             }
         ]
     },
-    "CupTank": {
+    "Cupcake Tank": {
         "Type": "Summoner",
-        "Image": "",
+        "Image": "rbxassetid://18673630095",
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 3,
@@ -2031,7 +2031,7 @@
     },
     "Commando Endo": {
         "Type": "Continuous",
-        "Image": "",
+        "Image": "rbxassetid://18673468864",
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 3,
@@ -2099,9 +2099,9 @@
             }
         ]
     },
-    "Sergeant Mangle": {
+    "Rocketeer Mangle": {
         "Type": "Explosion",
-        "Image": "",
+        "Image": "rbxassetid://18673926504",
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 3,
@@ -2117,7 +2117,7 @@
     },
     "Valkyrie Chica": {
         "Type": "Continuous",
-        "Image": "",
+        "Image": "rbxassetid://18673330553",
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 3,
@@ -2133,7 +2133,7 @@
     },
     "Artillery Puppet": {
         "Type": "Explosion",
-        "Image": "",
+        "Image": "rbxassetid://18672617524",
         "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 3,
