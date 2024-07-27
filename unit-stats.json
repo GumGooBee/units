@@ -1855,7 +1855,7 @@
     "Major Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18665224476",
-        "Rarity": "Secret",
+        "Rarity": "Rare",
         "PlacePrice": 1,
         "Max": 4,
         "Upgrades": [
@@ -1896,7 +1896,7 @@
     "Enforcer Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673234413",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 1,
         "Max": 3,
         "Upgrades": [
@@ -1937,7 +1937,7 @@
     "Mercenary Foxy": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673129884",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
         "PlacePrice": 1,
         "Max": 4,
         "Upgrades": [
@@ -2118,7 +2118,7 @@
     "Valkyrie Chica": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673330553",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 1,
         "Max": 3,
         "Offset": -0.8,
@@ -2134,7 +2134,7 @@
     "Artillery Puppet": {
         "Type": "Explosion",
         "Image": "rbxassetid://18672617524",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 1,
         "Max": 3,
         "Offset": -1.4,
