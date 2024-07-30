@@ -2368,13 +2368,13 @@
                 "Damage": 25,
                 "Cooldown": 0.25,
                 "SummonTime": 33,
-                "Health": 40,
+                "Health": 50,
                 "WalkSpeed": 9,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 24,
-                "SummonDamage": 30,
+                "SummonDamage": 25,
                 "SummonCooldown": 0.25
             },
             {
@@ -2383,13 +2383,13 @@
                 "Damage": 30,
                 "Cooldown": 0.25,
                 "SummonTime": 32,
-                "Health": 50,
+                "Health": 75,
                 "WalkSpeed": 10,
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
                 "SummonRange": 30,
-                "SummonDamage": 40,
+                "SummonDamage": 35,
                 "SummonCooldown": 0.25
             }
         ]
